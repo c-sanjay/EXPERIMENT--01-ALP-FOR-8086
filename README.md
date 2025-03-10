@@ -1,7 +1,7 @@
 # EXPERIMENT 01 ALP FOR 8086
-## Name : ESHWAR T
+## Name : SANJAY C
 
-## Reg no : 212223230054
+## Reg no : 212223240150
 
 ## Date of experiment : 10-03-25
 
